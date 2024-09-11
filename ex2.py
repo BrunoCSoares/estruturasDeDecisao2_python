@@ -1,5 +1,5 @@
 '''
-1. Uma livraria resolveu fazer uma promoção, com os seguintes critérios:
+2. Uma livraria resolveu fazer uma promoção, com os seguintes critérios:
 - Livros com preços até R$ 10,00 - desconto de 8%
 - Livros com preços de R$ 10,01 até R$ 60,00 - desconto de 10%
 - Livros com preços acima de R$ 60,00 - desconto de 20%

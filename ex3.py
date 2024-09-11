@@ -1,5 +1,5 @@
 '''
-1. Desenvolva um programa que recebe o peso e a altura do usuário. Calcule o IMC sabendo que a fórmula do IMC é o peso dividido pela altura ao quadrado. Apresente na tela o valor do IMC e a classificação de acordo com a tabela abaixo:
+3. Desenvolva um programa que recebe o peso e a altura do usuário. Calcule o IMC sabendo que a fórmula do IMC é o peso dividido pela altura ao quadrado. Apresente na tela o valor do IMC e a classificação de acordo com a tabela abaixo:
 
 | **IMC** | **Classificação** | **Recomendações** |
 | --- | --- | --- |

@@ -1,5 +1,5 @@
 '''
-1. Escreva um programa que solicite ao usuário o valor de um produto e exiba na tela as seguintes opções de pagamento:
+5. Escreva um programa que solicite ao usuário o valor de um produto e exiba na tela as seguintes opções de pagamento:
 
     1 – Pagamento a vista (5% desconto)
     2 – Pagamento cartão de crédito em 5 parcelas iguais
